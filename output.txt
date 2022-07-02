@@ -1,0 +1,9 @@
+*****************HERE ARE YOUR DETAILS********************
+[+]Name        :  Pranay
+[+]Year        :  2022
+[+]Section     :  B
+[+]Roll Number :  17
+[+]Age         :  19
+[+]Email Id    :  Pranay
+[+]Phone No    :  100100
+
